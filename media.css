@@ -1,0 +1,36 @@
+@media screen and (max-width: 605px){
+
+    body{
+        margin: auto;
+        margin-top: 55px;
+        padding: 15px 10px 15px 10px;
+    }
+    main{
+        background-color: white;
+        width: 305px;
+        margin: auto;
+        border-radius: 15px;
+        padding-bottom: 10px;
+    
+    }
+    
+    img{
+        max-width: 280px;
+        margin: auto;
+        padding: 10px 10px 10px 13px;
+    
+    }
+    h2{
+        text-align: center;
+        margin: auto;
+        padding: 0px 20px 0px 20px;
+    }
+    p{
+        text-align: center;
+        font-size: medium;
+        font-weight: bolder;
+        color: darkgrey;
+        padding: 0px 20px 0px 20px;
+    }
+    
+}
